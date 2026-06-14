@@ -1,16 +1,16 @@
-# Hi there, I'm Yashomati Baviskar 👋
+# Hi there, I'm Yashomati Baviskar 
 ## Aspiring Data Scientist | Full Stack Developer | Student
 
-Welcome to my GitHub! I am an engineering student based in Maharashtra, India, with a deep passion for building robust full-stack applications and uncovering actionable insights through machine learning and data analytics. 
+Welcome to my GitHub! I am an engineering student with a deep passion for building robust full-stack applications and uncovering actionable insights through machine learning and data analytics. 
 
 I thrive at the intersection of logical problem-solving and creative development, whether that means engineering an AI-driven tool or scripting efficient command-line utilities.
 
 ### 🚀 About Me
-- 🔭 I’m currently focused on expanding my expertise in **Data Analytics** and **Full Stack Development (FSD)**.
-- 📚 My active studies encompass core computing and mathematical foundations.
-- 💻 I love building end-to-end solutions. My repository history ranges from interactive web applications to practical AI-integrated tools like automated attendance systems. 
-- 🧰 Beyond standard web development, I have a strong interest in high-fidelity media extraction and automation, frequently utilizing **Python 3.13**, **yt-dlp**, and **FFmpeg** for complex audio manipulation and sequencing.
-- 🌱 I am constantly learning, currently exploring deeper machine learning paradigms and scalable backend architectures.
+-  I’m currently focused on expanding my expertise in **Data Analytics** and **Full Stack Development (FSD)**.
+-  My active studies encompass core computing and mathematical foundations.
+-  I love building end-to-end solutions. My repository history ranges from interactive web applications to practical AI-integrated tools like automated attendance systems. 
+-  Beyond standard web development, I have a strong interest in high-fidelity media extraction and automation, frequently utilizing **Python 3.13**, **yt-dlp**, and **FFmpeg** for complex audio manipulation and sequencing.
+-  I am constantly learning, currently exploring deeper machine learning paradigms and scalable backend architectures.
 
 ### 🛠️ Tech Stack & Skills
 * **Programming Languages:** Python (3.13), JavaScript, TypeScript, SQL
