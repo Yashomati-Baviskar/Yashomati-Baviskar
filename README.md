@@ -1,4 +1,37 @@
+# Hi there, I'm Yashomati Baviskar 👋
+## Aspiring Data Scientist | Full Stack Developer | Student
 
+Welcome to my GitHub! I am an engineering student based in Maharashtra, India, with a deep passion for building robust full-stack applications and uncovering actionable insights through machine learning and data analytics. 
+
+I thrive at the intersection of logical problem-solving and creative development, whether that means engineering an AI-driven tool or scripting efficient command-line utilities.
+
+### 🚀 About Me
+- 🔭 I’m currently focused on expanding my expertise in **Data Analytics** and **Full Stack Development (FSD)**.
+- 📚 My active studies encompass core computing and mathematical foundations.
+- 💻 I love building end-to-end solutions. My repository history ranges from interactive web applications to practical AI-integrated tools like automated attendance systems. 
+- 🧰 Beyond standard web development, I have a strong interest in high-fidelity media extraction and automation, frequently utilizing **Python 3.13**, **yt-dlp**, and **FFmpeg** for complex audio manipulation and sequencing.
+- 🌱 I am constantly learning, currently exploring deeper machine learning paradigms and scalable backend architectures.
+
+### 🛠️ Tech Stack & Skills
+* **Programming Languages:** Python (3.13), JavaScript, TypeScript, SQL
+* **Data Science & ML:** Statistical Analysis, Machine Learning Concepts, Data Processing
+* **Full Stack Development:** Frontend & Backend Web Technologies, API Integration
+* **Tools & Utilities:** Git/GitHub, FFmpeg, Command-Line (CLI) Automation
+
+### 💡 Featured Projects
+* **Snapclass:** An AI-powered attendance application demonstrating practical implementations of machine learning in a real-world utility.
+* **Study-Planner:** A structured productivity tool built with TypeScript to effectively organize priorities, track core subjects, and manage timelines.
+* **Media Processing Scripts:** Custom automation for precision sequencing, timestamp-based extraction, and high-quality audio merging.
+* **Interactive Web Apps:** Engineered engaging, logic-driven client-side projects including a memory game, classic snake, and tic-tac-toe.
+
+### 📫 Let's Connect
+I'm always open to discussing new opportunities, open-source collaborations, or chatting about data science and tech!
+
+- **Portfolio:** [yashomatibaviskar.me](http://yashomatibaviskar.me)
+- **LinkedIn:** [in/yashomati-baviskar](https://linkedin.com/in/yashomati-baviskar)
+
+---
+⭐️ *Feel free to explore my repositories below and reach out if you'd like to collaborate!*
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/yashomati.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yashomatibaviska) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3YGkqX2m) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashomati_baviskar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashomati-baviskar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yashomatibaviskar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yashomatibaviskar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Yashomati-Baviskar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yashomati-baviskar22) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yashomati-baviskar) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/yashomati_04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yashomati_04) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Yashomati-Baviskar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yashomati_04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashomatibaviskar@gmail.com) 
 
