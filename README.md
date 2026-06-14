@@ -1,4 +1,4 @@
-# Hi there, I'm Yashomati Baviskar 
+# Hi there, I'm Yashomati Baviskar 🌟
 ## Aspiring Data Scientist | Full Stack Developer | Student
 
 Welcome to my GitHub! I am an engineering student with a deep passion for building robust full-stack applications and uncovering actionable insights through machine learning and data analytics. 
